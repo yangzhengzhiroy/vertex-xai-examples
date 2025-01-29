@@ -7,7 +7,7 @@ This repository will slowly update with different ML frameoworks/ML problem/XAI 
 
 ### 1. Tensorflow + Classification + Sampled Shapley
 The project is inside **example_1** folder:
--   app/
+-   `app/`
     -   entities.py: example payload for hosting server
     -   model.py: example model architecture
     -   main.py: server entrypoint
