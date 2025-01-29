@@ -13,3 +13,4 @@ The project is inside **example_1** folder:
     -   `main.py`: server entrypoint
 -   `deploy.py`: example code for Vertex AI platform model creation and online endpoint deployment
 -   `Dockerfile`: custom container build
+-   `build.sh`: shell script to build and push docker img, remember to use gcloud to auth for docker first
